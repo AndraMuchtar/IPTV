@@ -625,6 +625,9 @@ https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 
 
 <=============== Kids Channels =====================>
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
+#https://link.zozotv.xyz:443/Rina923/390023/342
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
