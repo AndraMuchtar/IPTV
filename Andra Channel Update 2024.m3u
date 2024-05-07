@@ -239,6 +239,93 @@ https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax
 https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
+<======================== Movies ==========================>
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/hbo.png",HBO
+https://iptvsystem.my.id/index.mpd?cid=hbo&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImhibyIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2MX0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBOFamily1" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/hbofamily.png",HBO Family
+https://iptvsystem.my.id/index.mpd?cid=hbofam&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Imhib2ZhbSIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2Mn0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
+#EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBOSignature1" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/hbosig.png",HBO Signature
+https://iptvsystem.my.id/index.mpd?cid=hbosig&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Imhib3NpZyIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2Mn0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
+#EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBOHits1" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/hbohits.png",HBO Hits
+https://iptvsystem.my.id/index.mpd?cid=hbohits&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Imhib2hpdHMiLCJzaWduYXR1cmVLZXkiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJleHAiOjE3MTUwOTA5NjJ9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/cinemax.png",Cinemax
+https://iptvsystem.my.id/index.mpd?cid=cinemax&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImNpbmVtYXgiLCJzaWduYXR1cmVLZXkiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJleHAiOjE3MTUwOTA5NjJ9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="WarnerTV" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/warner.png",Warner TV
+https://iptvsystem.my.id/index.mpd?cid=warner&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Indhcm5lciIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2Mn0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITSMovies" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/hits_movies2.png",HITS Movies
+https://iptvsystem.my.id/index.mpd?cid=hitsmovies&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImhpdHNtb3ZpZXMiLCJzaWduYXR1cmVLZXkiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJleHAiOjE3MTUwOTA5NjJ9|Referer="https://visionplus.id"
+#EXTINF:-1 tvg-id="Cinemaworld" tvg-name="Cinemaworld" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/cinemaworld.png",Cinemaworld
+https://iptvsystem.my.id/index.m3u8?cid=cinemaworldhd&provider=dens&type=hls&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImNpbmVtYXdvcmxkaGQiLCJzaWduYXR1cmVLZXkiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJleHAiOjE3MTUwOTA5NjJ9|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="TvNMovies" tvg-name="TvNMovies" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/tvnmovies.png",TvN Movies
+https://iptvsystem.my.id/index.mpd?cid=tvnmovies&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6InR2bm1vdmllcyIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2M30|Referer="https://visionplus.id"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill.hk" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/thrill.png",Thrill
+https://iptvsystem.my.id/index.mpd?cid=thrill&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6InRocmlsbCIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2M30|Referer="https://visionplus.id"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
+#EXTINF:-1 tvg-id="BioskopIndonesia" tvg-name="BioskopIndonesia" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/bioskopindonesia.png",Bioskop Indonesia
+https://iptvsystem.my.id/index.mpd?cid=bioskopindonesia&provider=cubmu&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImJpb3Nrb3BpbmRvbmVzaWEiLCJzaWduYXR1cmVLZXkiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJleHAiOjE3MTUwOTA5NjN9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="GALAXY" tvg-name="GALAXY" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/galaxy.png",GALAXY
+https://iptvsystem.my.id/index.mpd?cid=galaxy&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImdhbGF4eSIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2M30|Referer="https://visionplus.id"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="GALAXYPremium" tvg-name="GALAXYPremium" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/galaxypremium.png",GALAXY Premium
+https://iptvsystem.my.id/index.mpd?cid=galaxypremium&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImdhbGF4eXByZW1pdW0iLCJzaWduYXR1cmVLZXkiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJleHAiOjE3MTUwOTA5NjN9|Referer="https://visionplus.id"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="CelestialMovies" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/celestialmovie.png",Celestial Movies
+https://iptvsystem.my.id/index.mpd?cid=celestialmovies&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImNlbGVzdGlhbG1vdmllcyIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2M30|Referer="https://visionplus.id"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="IMC" tvg-name="IMC" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/imc.png",IMC
+https://iptvsystem.my.id/index.mpd?cid=imc&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImltYyIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2NH0|Referer="https://visionplus.id"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="Cinemachi.IPTV" tvg-name="Cinemachi" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/cinemachi.png",Cinemachi
+https://iptvsystem.my.id/index.mpd?cid=cinemachi&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImNpbmVtYWNoaSIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2NH0|Referer="https://visionplus.id"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="CinemachiKids.IPTV" tvg-name="CinemachiKids" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/cinemachikids.png",Cinemachi Kids
+https://iptvsystem.my.id/index.mpd?cid=cinemachikids&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImNpbmVtYWNoaWtpZHMiLCJzaWduYXR1cmVLZXkiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJleHAiOjE3MTUwOTA5NjR9|Referer="https://visionplus.id"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="CinemachiMax.IPTV" tvg-name="CinemachiMax" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/cinemachimax.png",Cinemachi Max
+https://iptvsystem.my.id/index.mpd?cid=cinemachimax&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImNpbmVtYWNoaW1heCIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2NH0|Referer="https://visionplus.id"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="CinemachiAction.IPTV" tvg-name="CinemachiAction" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/cinemachiaction.png",Cinemachi Action
+https://iptvsystem.my.id/index.mpd?cid=cinemachiaction&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6ImNpbmVtYWNoaWFjdGlvbiIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2NH0|Referer="https://visionplus.id"
+#EXTINF:-1 tvg-id="MyCinema" tvg-name="MyCinema" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/mycinema.png",My Cinema
+https://iptvsystem.my.id/index.m3u8?cid=mycinemahd&provider=dens&type=hls&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Im15Y2luZW1haGQiLCJzaWduYXR1cmVLZXkiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJleHAiOjE3MTUwOTA5NjR9|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="MyCinemaAsia" tvg-name="MyCinemaAsia" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/mycinemaasia.png",My Cinema Asia
+https://iptvsystem.my.id/index.m3u8?cid=mycinemaasia&provider=dens&type=hls&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Im15Y2luZW1hYXNpYSIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2NH0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-id="MyFamilyChannel" tvg-name="MyFamilyChannel" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/myfamily.png",My Family
+https://iptvsystem.my.id/index.m3u8?cid=myfamilychannel&provider=dens&type=hls&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Im15ZmFtaWx5Y2hhbm5lbCIsInNpZ25hdHVyZUtleSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsImV4cCI6MTcxNTA5MDk2NX0|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/vision
+#EXTINF:-1 tvg-id="RockAction" tvg-name="RockAction" group-title="Movies" tvg-logo="https://assets.iptvsystem.my.id/img/rockaction.png",Rock Action
+https://iptvsystem.my.id/index.mpd?cid=rockaction&provider=vision&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6InJvY2thY3Rpb24iLCJzaWduYXR1cmVLZXkiOiJscVJORFBDOE5sRkpBbjlNbm5ZQUR3PT0iLCJleHAiOjE3MTUwOTA5NjV9|Referer="https://visionplus.id"
+
 <======================== Premium Movies ==========================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
