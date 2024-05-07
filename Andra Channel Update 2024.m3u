@@ -1,3 +1,6 @@
+TESTER DULU YA
+
+
 #EXTM3U x-tvg-url="https://test.iptvsystem.my.id/epg" refresh="3600"#EXTINF:-1 tvg-id="NET.IPTV" tvg-name="NET.IPTV" group-title="Lokal FTA" tvg-logo="https://assets.iptvsystem.my.id/img/net.png",NET.
 https://iptvsystem.my.id/index.m3u8?cid=netinsights&provider=yt&type=hls&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMTAuMTM3LjE5NS4xOTYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6Im5ldGluc2lnaHRzIiwic2lnbmF0dXJlS2V5IjoibHFSTkRQQzhObEZKQW45TW5uWUFEdz09IiwiZXhwIjoxNzE1MDI2NTY5fQ
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Lokal FTA" tvg-logo="https://assets.iptvsystem.my.id/img/indosiar.png",INDOSIAR
